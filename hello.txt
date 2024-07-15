@@ -9,3 +9,11 @@ fourth local
 fourth remote
 
 Savannah Gramze
+
+1 C
+2 D
+3 G
+4 E
+5 A
+6 B
+7 F
